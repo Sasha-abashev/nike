@@ -552,5 +552,19 @@ footer {
   text-align: center;
 }
 .fsf {
-    position: absolute;
+  position: absolute;
+}
+
+.support-item:hover {
+  color: #0066cc;
+}
+
+.contacts-link1:hover {
+  color: #0066cc;
+}
+.contacts-link:hover {
+  color: #0066cc;
+}
+.contacts-link2:hover {
+  color: #0066cc;    
 }
